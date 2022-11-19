@@ -1,5 +1,5 @@
-import { PublicKey } from "@solana/web3.js";
-
+import { PublicKey } from '@solana/web3.js';
+// display key exporting the function displayKey
 export const displayKey = (pubKey) => {
   const key = pubKey.toString();
 
